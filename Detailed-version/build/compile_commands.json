@@ -1,0 +1,140 @@
+[
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\average.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\average.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/average.cpp",
+  "output": "CMakeFiles/wave2.dir/average.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\coeffs_daub4.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\coeffs_daub4.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/coeffs_daub4.cpp",
+  "output": "CMakeFiles/wave2.dir/coeffs_daub4.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\connectneighbors.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\connectneighbors.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/connectneighbors.cpp",
+  "output": "CMakeFiles/wave2.dir/connectneighbors.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\eval_haar.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\eval_haar.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/eval_haar.cpp",
+  "output": "CMakeFiles/wave2.dir/eval_haar.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\main.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\main.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/main.cpp",
+  "output": "CMakeFiles/wave2.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\matrix.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\matrix.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/matrix.cpp",
+  "output": "CMakeFiles/wave2.dir/matrix.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\octtree.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\octtree.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/octtree.cpp",
+  "output": "CMakeFiles/wave2.dir/octtree.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\plane.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\plane.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/plane.cpp",
+  "output": "CMakeFiles/wave2.dir/plane.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\readpts.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\readpts.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/readpts.cpp",
+  "output": "CMakeFiles/wave2.dir/readpts.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\streamingvisitor.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\streamingvisitor.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/streamingvisitor.cpp",
+  "output": "CMakeFiles/wave2.dir/streamingvisitor.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\blur.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\blur.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/blur.cpp",
+  "output": "CMakeFiles/wave2.dir/blur.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\coeffs_haar.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\coeffs_haar.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/coeffs_haar.cpp",
+  "output": "CMakeFiles/wave2.dir/coeffs_haar.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\eval_daub4.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\eval_daub4.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/eval_daub4.cpp",
+  "output": "CMakeFiles/wave2.dir/eval_daub4.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\global.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\global.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/global.cpp",
+  "output": "CMakeFiles/wave2.dir/global.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\marchingcubes.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\marchingcubes.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/marchingcubes.cpp",
+  "output": "CMakeFiles/wave2.dir/marchingcubes.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\octnode.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\octnode.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/octnode.cpp",
+  "output": "CMakeFiles/wave2.dir/octnode.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\parse.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\parse.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/parse.cpp",
+  "output": "CMakeFiles/wave2.dir/parse.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\prune.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\prune.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/prune.cpp",
+  "output": "CMakeFiles/wave2.dir/prune.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\reconstruct.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\reconstruct.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/reconstruct.cpp",
+  "output": "CMakeFiles/wave2.dir/reconstruct.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\traverse.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\traverse.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/traverse.cpp",
+  "output": "CMakeFiles/wave2.dir/traverse.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\normal.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\normal.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/normal.cpp",
+  "output": "CMakeFiles/wave2.dir/normal.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\iterator.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\iterator.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/iterator.cpp",
+  "output": "CMakeFiles/wave2.dir/iterator.cpp.obj"
+},
+{
+  "directory": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+  "command": "D:\\MinGW\\mingw64-2\\mingw64\\bin\\g++.exe  @CMakeFiles/wave2.dir/includes_CXX.rsp -O3 -DNDEBUG -frounding-math -o CMakeFiles\\wave2.dir\\iterator_daub4.cpp.obj -c D:\\Surface_Reconstruction\\WaveletPipeRecon_Linux64\\prepare\\FISR-code\\Detailed-version\\iterator_daub4.cpp",
+  "file": "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/iterator_daub4.cpp",
+  "output": "CMakeFiles/wave2.dir/iterator_daub4.cpp.obj"
+}
+]

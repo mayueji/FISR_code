@@ -1,0 +1,385 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.27.0-rc5/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.27.0-rc5/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.27.0-rc5/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.27.0-rc5/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/CGALConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/lib/cmake/CGAL/CGALConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/lib/cmake/CGAL/CGALConfigBuildVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/CGALConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/lib/cmake/CGAL/CGALConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_CreateSingleSourceCGALProgram.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_add_test.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_Macros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_VersionUtils.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_Common.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_Macros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_SetupVLD.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_TweakFindBoost.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_SCM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_SetupCGALDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_SetupGMP.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/FindGMP.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_GeneratorSpecificSettings.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/FindMPFR.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_GeneratorSpecificSettings.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/FindGMPXX.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/FindGMP.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_GeneratorSpecificSettings.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_SetupBoost.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_TweakFindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_setup_target_dependencies.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake/cmake-3.27.0-rc5-windows-x86_64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/lib/cmake/CGAL/CGALConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/lib/cmake/CGAL/CGALConfigBuildVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_target_use_TBB.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/CGAL/CGAL-5.5.2/cmake/modules/CGAL_enable_end_of_configuration_hook.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version/build",
+		"source" : "D:/Surface_Reconstruction/WaveletPipeRecon_Linux64/prepare/FISR-code/Detailed-version"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

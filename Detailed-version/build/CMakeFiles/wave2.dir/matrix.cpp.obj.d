@@ -1,0 +1,28 @@
+CMakeFiles/wave2.dir/matrix.cpp.obj: \
+ D:\Surface_Reconstruction\WaveletPipeRecon_Linux64\prepare\FISR-code\Detailed-version\matrix.cpp \
+ D:\Surface_Reconstruction\WaveletPipeRecon_Linux64\prepare\FISR-code\Detailed-version\matrix.h \
+ D:\Surface_Reconstruction\WaveletPipeRecon_Linux64\prepare\FISR-code\Detailed-version\vect.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/assert.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/limits.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cmath \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cpp_type_traits.h \
+ D:/MinGW/mingw64-2/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/type_traits.h \
+ D:/MinGW/mingw64-2/mingw64/x86_64-w64-mingw32/include/math.h

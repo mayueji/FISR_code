@@ -1,0 +1,1 @@
+-isystem "D:/CGAL/CGAL-5.5.2/auxiliary/gmp/include" -isystem "D:/CGAL/CGAL-5.5.2/include" -isystem D:/boost_1_82_0

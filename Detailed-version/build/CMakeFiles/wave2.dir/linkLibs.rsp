@@ -1,0 +1,1 @@
+ -lm "D:/CGAL/CGAL-5.5.2/auxiliary/gmp/lib/libmpfr-4.lib" "D:/CGAL/CGAL-5.5.2/auxiliary/gmp/lib/libgmp-10.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
